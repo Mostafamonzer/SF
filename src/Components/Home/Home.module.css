@@ -1,0 +1,12 @@
+
+    .line{
+        width: 100px;
+        height:4px;
+        background-color: white;
+    
+    }
+    .Main{
+        background-color: #1abc9c;
+        color: white;
+        min-height: 80vh;
+    }
