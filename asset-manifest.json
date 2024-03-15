@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SF/static/css/main.e5954a92.css",
+    "main.js": "/SF/static/js/main.7c1dad28.js",
+    "static/media/fa-solid-900.ttf": "/SF/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/SF/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/SF/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/SF/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/fa-regular-400.ttf": "/SF/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/poert1.png": "/SF/static/media/poert1.4417330275f78faa31c3.png",
+    "static/media/port3.png": "/SF/static/media/port3.494a4a914b5471b41f3e.png",
+    "static/media/fa-regular-400.woff2": "/SF/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/port2.png": "/SF/static/media/port2.6554473016d32b343f02.png",
+    "static/media/freshcart-logo.svg": "/SF/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/fa-v4compatibility.ttf": "/SF/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/SF/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/SF/index.html",
+    "main.e5954a92.css.map": "/SF/static/css/main.e5954a92.css.map",
+    "main.7c1dad28.js.map": "/SF/static/js/main.7c1dad28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5954a92.css",
+    "static/js/main.7c1dad28.js"
+  ]
+}
